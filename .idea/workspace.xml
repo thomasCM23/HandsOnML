@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a566f4-d9fe-4c06-94c7-616667a49c87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch08_DimensionalityReduction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_UpAndRunningWithTensorFlow.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch07_EnsembleLearningAndRandomForests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch07_EnsembleLearningAndRandomForests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,61 +16,63 @@
     <session id="-215791030">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="13" />
+          <entry key="ipynb" value="17" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="13" />
+          <entry key="IPNB" value="17" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="9" />
-          <entry key="py" value="17623" />
+          <entry key="py" value="20603" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="17632" />
+          <entry key="Python" value="20612" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch07_EnsembleLearningAndRandomForests.ipynb">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="40" />
+              <selected id="72" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch08_DimensionalityReduction.ipynb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch09_UpAndRunningWithTensorFlow.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="28" />
+              <selected id="83" />
             </state>
           </provider>
         </entry>
@@ -105,13 +107,15 @@
         <option value="$PROJECT_DIR$/Ch05.ipynb" />
         <option value="$PROJECT_DIR$/ch08_DimensionalityReduction.ipynb" />
         <option value="$PROJECT_DIR$/ch07_EnsembleLearningAndRandomForests.ipynb" />
+        <option value="$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb" />
+        <option value="$PROJECT_DIR$/ch09_UpAndRunningWithTensorFlow.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2008" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -253,7 +257,7 @@
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09699526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09699526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,7 +268,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3130252" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.17226891" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32914045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -281,20 +285,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01_MachineLearningLandscape.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="62" />
         </state>
       </provider>
     </entry>
@@ -334,6 +324,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch07_EnsembleLearningAndRandomForests.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01_MachineLearningLandscape.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch08_DimensionalityReduction.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -341,10 +345,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch07_EnsembleLearningAndRandomForests.ipynb">
+    <entry file="file://$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="40" />
+          <selected id="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09_UpAndRunningWithTensorFlow.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="83" />
         </state>
       </provider>
     </entry>
