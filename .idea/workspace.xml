@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a566f4-d9fe-4c06-94c7-616667a49c87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch09_UpAndRunningWithTensorFlow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_IntroductionToArtificialNeuralNetworks.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +15,12 @@
     <session id="-215791030">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -29,30 +28,30 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="17" />
+          <entry key="ipynb" value="18" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="17" />
+          <entry key="IPNB" value="18" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="9" />
-          <entry key="py" value="20603" />
+          <entry key="py" value="22869" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="20612" />
+          <entry key="Python" value="22878" />
         </counts>
       </usages-collector>
     </session>
@@ -68,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch09_UpAndRunningWithTensorFlow.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch10_IntroductionToArtificialNeuralNetworks.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="26" />
             </state>
           </provider>
         </entry>
@@ -109,6 +117,7 @@
         <option value="$PROJECT_DIR$/ch07_EnsembleLearningAndRandomForests.ipynb" />
         <option value="$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb" />
         <option value="$PROJECT_DIR$/ch09_UpAndRunningWithTensorFlow.ipynb" />
+        <option value="$PROJECT_DIR$/ch10_IntroductionToArtificialNeuralNetworks.ipynb" />
       </list>
     </option>
   </component>
@@ -255,7 +264,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09699526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -268,7 +276,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.17226891" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04621849" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32914045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -348,7 +356,7 @@
     <entry file="file://$PROJECT_DIR$/ch02_EndtoEndMLProject.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="72" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -356,6 +364,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch10_IntroductionToArtificialNeuralNetworks.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="26" />
         </state>
       </provider>
     </entry>
