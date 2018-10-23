@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a566f4-d9fe-4c06-94c7-616667a49c87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch13_ConvolutionalNeuralNetworks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_RecurrentNeuralNetworks.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12_DstributingTensorflowAcrossDevicesAndServers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_DstributingTensorflowAcrossDevicesAndServers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp_models/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tmp_models/checkpoint" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +16,13 @@
     <session id="-215791030">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
@@ -30,60 +30,42 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="21" />
+          <entry key="ipynb" value="22" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="21" />
+          <entry key="IPNB" value="22" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="9" />
-          <entry key="py" value="26434" />
+          <entry key="py" value="28784" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="26443" />
+          <entry key="Python" value="28793" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch11_TrainingDeepLearningNeuralNets.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch12_DstributingTensorflowAcrossDevicesAndServers.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch13_ConvolutionalNeuralNetworks.ipynb">
+        <entry file="file://$PROJECT_DIR$/ch14_RecurrentNeuralNetworks.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="12" />
+              <selected id="93" />
             </state>
           </provider>
         </entry>
@@ -124,6 +106,7 @@
         <option value="$PROJECT_DIR$/ch11_TrainingDeepLearningNeuralNets.ipynb" />
         <option value="$PROJECT_DIR$/ch12_DstributingTensorflowAcrossDevicesAndServers.ipynb" />
         <option value="$PROJECT_DIR$/ch13_ConvolutionalNeuralNetworks.ipynb" />
+        <option value="$PROJECT_DIR$/ch14_RecurrentNeuralNetworks.ipynb" />
       </list>
     </option>
   </component>
@@ -139,7 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,10 +129,16 @@
               <item name="HandsOnML" type="b2602c69:ProjectViewProjectNode" />
               <item name="HandsOnML" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HandsOnML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HandsOnML" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,9 +260,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6932773" visible="true" weight="0.11122826" />
-      <window_info id="Structure" order="1" sideWeight="0.3067227" side_tool="true" visible="true" weight="0.11122826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6407563" visible="true" weight="0.11122826" />
+      <window_info id="Structure" order="1" sideWeight="0.3592437" side_tool="true" visible="true" weight="0.11122826" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -400,6 +389,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch14_RecurrentNeuralNetworks.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="93" />
         </state>
       </provider>
     </entry>

@@ -1,2 +1,2 @@
-model_checkpoint_path: "ch11_MAXNormReg.ckpt"
-all_model_checkpoint_paths: "ch11_MAXNormReg.ckpt"
+model_checkpoint_path: "ch14_my_dropout_time_series_model"
+all_model_checkpoint_paths: "ch14_my_dropout_time_series_model"
