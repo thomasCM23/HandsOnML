@@ -1,2 +1,2 @@
-model_checkpoint_path: "ch14_my_dropout_time_series_model"
-all_model_checkpoint_paths: "ch14_my_dropout_time_series_model"
+model_checkpoint_path: "my_model_variational.ckpt"
+all_model_checkpoint_paths: "my_model_variational.ckpt"
